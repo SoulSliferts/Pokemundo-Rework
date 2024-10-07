@@ -5,4 +5,4 @@ Este repositorio contiene el Rework del diseño y desarrollo del sitio web de Po
 La plataforma ha sido diseñada para garantizar una experiencia de usuario fluida, con especial atención a la accesibilidad y velocidad de navegación.
 
 # Pagina Principal
-![pagina principal](Pagina Principal-poke.png)
+![pagina principal](Pagina Principal-poke)
