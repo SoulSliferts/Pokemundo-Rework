@@ -5,4 +5,7 @@ Este repositorio contiene el Rework del diseño y desarrollo del sitio web de Po
 La plataforma ha sido diseñada para garantizar una experiencia de usuario fluida, con especial atención a la accesibilidad y velocidad de navegación.
 
 # Pagina Principal
-![Descripción de la imagen](Pagina-Principal.png)
+![Pagina Principal](Pagina-Principal.png)
+
+# Categorias
+![Categorias](NDS-y-Categoria-por-individual.png)
