@@ -17,4 +17,4 @@ La plataforma ha sido diseñada para garantizar una experiencia de usuario fluid
 ![Juegos](Descarga-de-los-juegos.png)
 
 # Menu despegable
-![Menu](Menu-Categorias-despegable.png)
+![Menu](Menu-categorias-despegable.png)
