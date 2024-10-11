@@ -9,3 +9,12 @@ La plataforma ha sido diseñada para garantizar una experiencia de usuario fluid
 
 # Categorias
 ![Categorias](NDS-y-Categoria-por-individual.png)
+
+# Mis Redes
+![Redes](Mis-Redes.png)
+
+# Descarga de juegos
+![Juegos](Descarga-de-los-juegos.png)
+
+# Menu despegable
+![Menu](Menu-Categorias-despegable.png)
