@@ -18,3 +18,9 @@ La plataforma ha sido diseñada para garantizar una experiencia de usuario fluid
 
 # Menu despegable
 ![Menu](Menu-categorias-despegable.png)
+
+# copy
+
+**Todo el contenido es de la autoridad de Chronica y no debe ser distribuido sin el permiso de la autora de la marca Pokemundo: [Pokemundo Web](https://www.youtube.com/@chronicayt)**
+
+**Derechos De Autor para @Pokemundo**
