@@ -21,6 +21,6 @@ La plataforma ha sido diseñada para garantizar una experiencia de usuario fluid
 
 # copy
 
-**Todo el contenido es de la autoridad de Chronica y no debe ser distribuido sin el permiso de la autora de la marca Pokemundo: [Chronica YT](https://www.youtube.com/@chronicayt)/[Pokemundo.com](https://pokemundo.com/)**
+**Todo el contenido es de la autoridad de Chronica y no debe ser distribuido sin el permiso de la autora de la marca Pokemundo: [Chronica YT](https://www.youtube.com/@chronicayt) / [Pokemundo.com](https://pokemundo.com/)**
 
 **Derechos De Autor para @Pokemundo**
